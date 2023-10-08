@@ -1,0 +1,17 @@
+{
+    "name": "pajaeu/session",
+    "autoload": {
+        "psr-4": {
+            "Pajaeu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paul",
+            "email": "fgocsgo@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    }
+}
